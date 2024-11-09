@@ -44,7 +44,7 @@
 
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
-<h3 align="left">Languages most used:</h3>
+<h3 align="left">Languages most used in GitHub:</h3>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
