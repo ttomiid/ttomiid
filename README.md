@@ -28,6 +28,8 @@
 <a href="https://instagram.com/ttomiid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ttomiid" height="30" width="40" /></a>
 </p>
 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages most used:</h3>
 
