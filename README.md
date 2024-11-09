@@ -40,7 +40,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-05122A?logo=MySQL)](https://github.com/t0mZzZ)
 [![Linux](https://img.shields.io/badge/Linux-05122A?logo=linux)](https://github.com/t0mZzZ)
 
-https://img.shields.io/badge/Linux-grey?logo=linux
 
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
