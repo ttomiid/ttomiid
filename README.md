@@ -1,5 +1,5 @@
 <h1 align="center">🎓Hello, i'am Tomas🎓</h1>
-<a href="https://www.linux.org/" target="_blank" align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" align="center"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" align="center" width="40" height="40"/>
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
