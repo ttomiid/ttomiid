@@ -36,7 +36,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+[![Visual Studio Code](https://img.shields.io/badge/VSCode-05122A?logo=vscode)](https://github.com/t0mZzZ)
 [![MySQL](https://img.shields.io/badge/MySQL-05122A?logo=MySQL)](https://github.com/t0mZzZ)
 [![Linux](https://img.shields.io/badge/Linux-05122A?logo=linux)](https://github.com/t0mZzZ)
 
