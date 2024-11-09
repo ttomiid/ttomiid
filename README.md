@@ -13,7 +13,7 @@
 
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Universidad Siglo 21](https://www.certus.edu.pe/)
+- 📚 I am currently studying at [Universidad Siglo 21](https://21.edu.ar/oferta-academica/licenciatura-en-seguridad-informatica) and University expert in ethical hacking at [Universidad Tecnologica Nacional](https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/352/experto-universitario-en-hacking-etico-ethical-hacking)
 
 - 🌱 I am currently in the race **Bachelor's degree in computer security**
 
