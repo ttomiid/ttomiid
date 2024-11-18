@@ -7,7 +7,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t0mZzZ&label=Profile%20views&color=0e75b6&style=flat" alt="t0mZzZ" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ttomiid&label=Profile%20views&color=0e75b6&style=flat" alt="ttomiid" /> </p>
 
 <!-- TROFEOS GITHUB -->
 
@@ -34,12 +34,12 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-[![Boostrap](https://img.shields.io/badge/Boostrap-05122A?logo=Bootstrap)](https://github.com/t0mZzZ)
+[![Boostrap](https://img.shields.io/badge/Boostrap-05122A?logo=Bootstrap)](https://github.com/ttomiid)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-[![Visual Studio Code](https://img.shields.io/badge/VSCode-05122A?logo=vscode)](https://github.com/t0mZzZ)
-[![MySQL](https://img.shields.io/badge/MySQL-05122A?logo=MySQL)](https://github.com/t0mZzZ)
-[![Linux](https://img.shields.io/badge/Linux-05122A?logo=linux)](https://github.com/t0mZzZ)
+[![Visual Studio Code](https://img.shields.io/badge/VSCode-05122A?logo=vscode)](https://github.com/ttomiid)
+[![MySQL](https://img.shields.io/badge/MySQL-05122A?logo=MySQL)](https://github.com/ttomiid)
+[![Linux](https://img.shields.io/badge/Linux-05122A?logo=linux)](https://github.com/ttomiid)
 
 
 
@@ -48,8 +48,8 @@
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
-  <!--<img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=t0mZzZ&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>-->
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0mZzZ&layout=compact&theme=gotham&langs_count=8"/>
+  <!--<img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=ttomiid&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>-->
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttomiid/&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
 <!-- GIF FOOTER -->
