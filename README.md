@@ -17,7 +17,7 @@
 
 - 🌱 I am currently in the race **Bachelor's degree in computer security**
 
-- 🏙 Creator of the [Haxing](https://discord.gg/2nHBQf7mQj) organization
+- 🏙 Creator of the [HaxingSec](https://discord.gg/2nHBQf7mQj) organization
 
 - 📫 How to reach me **tomasalejodelgado@outlook.com**
 
