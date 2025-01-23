@@ -17,7 +17,7 @@
 
 - 🌱 I am currently in the race **Bachelor's degree in computer security**
 
-- 🏙 Creator of the [HaxingSec](https://discord.gg/2nHBQf7mQj) organization
+- 🏙 Instructor of [EC-Council Learning CodeRed](https://codered.eccouncil.org/) 👨‍🏫🔴
 
 - 📫 How to reach me **tomasalejodelgado@outlook.com**
 
