@@ -55,6 +55,21 @@
 
 ![Nmap](https://img.shields.io/badge/Nmap-004F94?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8000?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-990000?style=for-the-badge&logo=nikto&logoColor=white)
+![WhatWeb](https://img.shields.io/badge/WhatWeb-555555?style=for-the-badge&logo=web&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit_Framework-1572B6?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00979D?style=for-the-badge&logo=tenable&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-00599C?style=for-the-badge&logo=nuclei&logoColor=white)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-764ABC?style=for-the-badge&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8A2BE2?style=for-the-badge&logo=johntheripper&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-008000?style=for-the-badge&logo=hydra&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-1D1D1D?style=for-the-badge&logo=maltego&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-FF4500?style=for-the-badge&logo=gobuster&logoColor=white)
+![Social Engineering Toolkit](https://img.shields.io/badge/SET-FF0000?style=for-the-badge&logo=social-engineering&logoColor=white)
+![BeEF](https://img.shields.io/badge/BeEF-FF69B4?style=for-the-badge&logo=beef&logoColor=white)
+![VeraCrypt](https://img.shields.io/badge/VeraCrypt-008080?style=for-the-badge&logo=veracrypt&logoColor=white)
 
 
 
