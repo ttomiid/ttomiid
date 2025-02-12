@@ -73,17 +73,22 @@
 
 <h3 align="left">Protocols and networks</h3>
 
-![TCP/IP](https://img.shields.io/badge/TCP/IP-007396?style=for-the-badge&logo=internet&logoColor=white)
-![HTTP/HTTPS](https://img.shields.io/badge/HTTP/HTTPS-FF4500?style=for-the-badge&logo=http&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-0078D7?style=for-the-badge&logo=dns&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-008000?style=for-the-badge&logo=dhcp&logoColor=white)
-![FTP/SFTP](https://img.shields.io/badge/FTP/SFTP-1E90FF?style=for-the-badge&logo=ftp&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-4E9A06?style=for-the-badge&logo=ssh&logoColor=white)
-![SSL/TLS](https://img.shields.io/badge/SSL/TLS-6A5ACD?style=for-the-badge&logo=security&logoColor=white)
-![NAT](https://img.shields.io/badge/NAT-FF8C00?style=for-the-badge&logo=network&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-800000?style=for-the-badge&logo=vpn&logoColor=white)
-![Wi-Fi](https://img.shields.io/badge/WiFi-009688?style=for-the-badge&logo=wi-fi&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-007396?style=for-the-badge&logo=internet&logoColor=white)  
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP/HTTPS-FF4500?style=for-the-badge&logo=http&logoColor=white)  
+![DNS](https://img.shields.io/badge/DNS-0078D7?style=for-the-badge&logo=dns&logoColor=white)  
+![DHCP](https://img.shields.io/badge/DHCP-008000?style=for-the-badge&logo=dhcp&logoColor=white)  
+![FTP/SFTP](https://img.shields.io/badge/FTP/SFTP-1E90FF?style=for-the-badge&logo=ftp&logoColor=white)  
+![SSH](https://img.shields.io/badge/SSH-4E9A06?style=for-the-badge&logo=ssh&logoColor=white)  
+![SSL/TLS](https://img.shields.io/badge/SSL/TLS-6A5ACD?style=for-the-badge&logo=security&logoColor=white)  
+![NAT](https://img.shields.io/badge/NAT-FF8C00?style=for-the-badge&logo=network&logoColor=white)  
+![VPN](https://img.shields.io/badge/VPN-800000?style=for-the-badge&logo=vpn&logoColor=white)  
+![Wi-Fi](https://img.shields.io/badge/WiFi-009688?style=for-the-badge&logo=wi-fi&logoColor=white)  
+![IDS/IPS](https://img.shields.io/badge/IDS/IPS-DC143C?style=for-the-badge&logo=security&logoColor=white)  
 
+<h3 align="left">Methodologies and standards</h3>
+
+![ISO 27000](https://img.shields.io/badge/ISO_27000-00599C?style=for-the-badge&logo=iso&logoColor=white)  
+![OSSTMM](https://img.shields.io/badge/OSSTMM-8A2BE2?style=for-the-badge&logo=security&logoColor=white)  
 
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
