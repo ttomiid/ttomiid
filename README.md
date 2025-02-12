@@ -22,7 +22,7 @@
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 - ![Nmap](https://img.shields.io/badge/Nmap-004F94?style=for-the-badge&logo=nmap&logoColor=white)
-- ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8000?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8000?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 
 <!-- BREVE DESCRIPCION -->
