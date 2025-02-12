@@ -101,7 +101,7 @@
 ![OSSTMM](https://img.shields.io/badge/OSSTMM-8A2BE2?style=for-the-badge&logo=security&logoColor=white)  
 
 
-## Write-Ups
+<h2 align="left">Write-Ups</h2>
 
 This repository contains write-ups of CTF machines, where I document the process and solutions for challenges from platforms like VulnHub, TryHackMe, Hack The Box, and TheHackerLabs. Each write-up includes detailed steps, tools used, and techniques applied during the exploitation and enumeration phases.
 
