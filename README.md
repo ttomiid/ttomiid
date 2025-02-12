@@ -15,7 +15,9 @@
 
 ![EHE - Ethical Hacking Essentials](https://img.shields.io/badge/EHE-Ethical_Hacking_Essentials-FF0000?style=for-the-badge&logo=EC-Council&logoColor=white)  
 ![Experto Universitario en Ethical Hacking - UTN](https://img.shields.io/badge/Experto_Universitario_en_Ethical_Hacking-UTN-004A99?style=for-the-badge&logo=university&logoColor=white)  
-
+![Foundations of Cybersecurity - Google](https://img.shields.io/badge/Foundations_of_Cybersecurity-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![Introducción a la Ciberseguridad - Cisco](https://img.shields.io/badge/Introducción_a_la_Ciberseguridad-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
+![Armado y Reparación de PC - UTN](https://img.shields.io/badge/Armado_y_Reparación_de_PC-UTN-004A99?style=for-the-badge&logo=university&logoColor=white)  
 
 
 <!-- BREVE DESCRIPCION -->
