@@ -11,19 +11,6 @@
 
 <!-- TROFEOS GITHUB -->
 
-- ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-- ![Parrot OS](https://img.shields.io/badge/Parrot_OS-20C20E?style=for-the-badge&logo=parrotos&logoColor=white)
-- ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-- ![Nmap](https://img.shields.io/badge/Nmap-004F94?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8000?style=for-the-badge&logo=burpsuite&logoColor=white)
-
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [Universidad Siglo 21](https://21.edu.ar/oferta-academica/licenciatura-en-seguridad-informatica) and I am certified by the at [Universidad Tecnologica Nacional](https://sceu.frba.utn.edu.ar/e-learning/detalle/experto-universitario/352/experto-universitario-en-hacking-etico-ethical-hacking) as a University expert in Ethical Hacking
@@ -42,17 +29,18 @@
 <a href="https://instagram.com/ttomiid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ttomiid" height="30" width="40" /></a>
 </p>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-[![Boostrap](https://img.shields.io/badge/Boostrap-05122A?logo=Bootstrap)](https://github.com/ttomiid)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-[![Visual Studio Code](https://img.shields.io/badge/VSCode-05122A?logo=vscode)](https://github.com/ttomiid)
-[![MySQL](https://img.shields.io/badge/MySQL-05122A?logo=MySQL)](https://github.com/ttomiid)
-[![Linux](https://img.shields.io/badge/Linux-05122A?logo=linux)](https://github.com/ttomiid)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-20C20E?style=for-the-badge&logo=parrotos&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004F94?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8000?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 
 
