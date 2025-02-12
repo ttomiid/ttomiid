@@ -11,6 +11,12 @@
 
 <!-- TROFEOS GITHUB -->
 
+<h3 align="left">Certifications</h3>
+
+![EHE - Ethical Hacking Essentials](https://img.shields.io/badge/EHE-Ethical_Hacking_Essentials-FF0000?style=for-the-badge&logo=EC-Council&logoColor=white)  
+![Experto Universitario en Ethical Hacking - UTN](https://img.shields.io/badge/Experto_Universitario_en_Ethical_Hacking-UTN-004A99?style=for-the-badge&logo=university&logoColor=white)  
+
+
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [Universidad Siglo 21](https://21.edu.ar/oferta-academica/licenciatura-en-seguridad-informatica)
