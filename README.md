@@ -60,7 +60,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit_Framework-1572B6?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00979D?style=for-the-badge&logo=tenable&logoColor=white)
 ![Nuclei](https://img.shields.io/badge/Nuclei-00599C?style=for-the-badge&logo=nuclei&logoColor=white)
-![Recon-ng](https://img.shields.io/badge/Recon--ng-764ABC?style=for-the-badge&logo=python&logoColor=white)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-764ABC?style=for-the-badge&logo=recon-ng&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8A2BE2?style=for-the-badge&logo=johntheripper&logoColor=white)
