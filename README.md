@@ -101,11 +101,11 @@
 ![OSSTMM](https://img.shields.io/badge/OSSTMM-8A2BE2?style=for-the-badge&logo=security&logoColor=white)  
 
 
-<h2 align="left">Write-Ups</h2>
+<h2 align="left">Write-Ups GitBook</h2>
 
-This repository contains write-ups of CTF machines, where I document the process and solutions for challenges from platforms like VulnHub, TryHackMe, Hack The Box, and TheHackerLabs. Each write-up includes detailed steps, tools used, and techniques applied during the exploitation and enumeration phases.
+This GitBook contains write-ups of CTF machines, where I document the process and solutions for challenges from platforms like VulnHub, TryHackMe, Hack The Box, and TheHackerLabs. Each write-up includes detailed steps, tools used, and techniques applied during the exploitation and enumeration phases.
 
-You can explore my write-ups here: [Obsidian Writeups](https://github.com/ttomiid/Obsidian_Writeups)
+You can explore my write-ups here: [WriteUps GitBook](https://writeups-ctfs.gitbook.io/writeup-ctf)
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Most used languages in GitHub:</h3>
