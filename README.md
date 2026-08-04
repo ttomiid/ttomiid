@@ -84,8 +84,6 @@ Analista de ciberseguridad con experiencia en **pentesting**, **análisis de vul
 
 </details>
 
-> 💡 *Actualizá las tablas con tus retos reales (nombre, dificultad/tipo, herramienta) y reemplazá cada `#` por el link directo a esa página dentro de tu GitBook. Podés agregar filas a medida que sumes nuevos write-ups.*
-
 ---
 
 ### 🎓 Certificaciones
