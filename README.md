@@ -71,9 +71,9 @@ Analista de ciberseguridad con experiencia en **pentesting**, **análisis de vul
 ### 🌐 Encontrame en
 
 <p align="left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+  <a href="https://haxingsec.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ttomiid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ttomiid.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </p>
 
 ---
