@@ -59,8 +59,8 @@ Analista de ciberseguridad con experiencia en **pentesting**, **análisis de vul
 
 ### 📚 Write-Ups y retos resueltos
 
-📖 **GitBook CTFs (HTB):** [Ingresar al GitBook →](#)
-📖 **GitBook SOC (LetsDefend.io):** [Ingresar al GitBook →](#)
+📖 **GitBook CTFs (HTB):** [Ingresar al GitBook →](https://writeups-ctfs.gitbook.io/writeup-ctf)
+📖 **GitBook SOC (LetsDefend.io):** [Ingresar al GitBook →](https://writeups-ctfs.gitbook.io/letsdefend-write-ups)
 
 <details>
 <summary><strong>🚩 CTFs — Hack The Box</strong> (click para expandir)</summary>
