@@ -2,7 +2,7 @@
 <h3 align="center">SOC Analyst L1 | Ethical Hacker | Instructor en Ciberseguridad</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ubicación-%20Buenos%20Aires-blue?style=flat-square" alt="Ubicación"/>
+  <img src="https://img.shields.io/badge/Ubicación-Argentina,%20Buenos%20Aires-blue?style=flat-square" alt="Ubicación"/>
   <img src="https://img.shields.io/badge/Estudiantes%20formados-8.500%2B-brightgreen?style=flat-square" alt="Estudiantes"/>
   <img src="https://img.shields.io/badge/Founder-HaxingSec-red?style=flat-square" alt="HaxingSec"/>
 </p>
