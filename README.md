@@ -76,8 +76,6 @@ Analista de ciberseguridad con experiencia en **pentesting**, **análisis de vul
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </p>
 
-> 💡 *Reemplazá los `#` de arriba con los links reales a tu Blog, Write-Ups, Portafolio y LinkedIn que figuran en tu CV.*
-
 ---
 
 <p align="center">
