@@ -1,5 +1,4 @@
-<h1 align="center">Hola, soy Tomás Delgado 👋</h1>
-<h3 align="center">SOC Analyst L1 | Ethical Hacker | Instructor en Ciberseguridad</h3>
+<h1 align="center">SOC Analyst L1 | Ethical Hacker | Instructor en Ciberseguridad</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubicación-Buenos%20Aires,%20Argentina-blue?style=flat-square" alt="Ubicación"/>
