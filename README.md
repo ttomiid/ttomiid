@@ -106,7 +106,6 @@ Analista de ciberseguridad con experiencia en **pentesting**, **análisis de vul
   <a href="https://www.linkedin.com/in/ttomiid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://ttomiid.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </p>
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tomas-delgado&label=Visitas%20al%20perfil&color=blueviolet&style=flat" alt="Visitas al perfil"/>
