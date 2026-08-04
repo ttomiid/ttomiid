@@ -58,6 +58,37 @@ Analista de ciberseguridad con experiencia en **pentesting**, **análisis de vul
 
 ---
 
+### 📚 Write-Ups y retos resueltos
+
+📖 **GitBook CTFs (HTB):** [Ingresar al GitBook →](#)
+📖 **GitBook SOC (LetsDefend.io):** [Ingresar al GitBook →](#)
+
+<details>
+<summary><strong>🚩 CTFs — Hack The Box</strong> (click para expandir)</summary>
+
+| Máquina / Reto | Dificultad | Categoría | Write-Up |
+|---|---|---|---|
+| Forest | Fácil | Active Directory | [Ver write-up](https://writeups-ctfs.gitbook.io/writeup-ctf/hack-the-box/forest-easy) |
+| Authority | Media | LDAP | [Ver write-up](https://writeups-ctfs.gitbook.io/writeup-ctf/hack-the-box/authority-medium) |
+| Blackfield | Difícil | Active Directory | [Ver write-up](https://writeups-ctfs.gitbook.io/writeup-ctf/hack-the-box/blackfield-hard) |
+
+</details>
+
+<details>
+<summary><strong>🛡️ Retos SOC — LetsDefend.io</strong> (click para expandir)</summary>
+
+| Alerta / Evento | Tipo | Criticidad | Write-Up |
+|---|---|---|---|
+| SOC146 | Phishing | HIGH | [Ver write-up](https://writeups-ctfs.gitbook.io/letsdefend-write-ups/high/soc146-phishing-mail-detected-excel-4.0-macros) |
+| SOC342 | RCE and Auth Bypass | CRITICAL | [Ver write-up](https://writeups-ctfs.gitbook.io/letsdefend-write-ups/critical/soc342-cve-2025-53770-sharepoint-toolshell-auth-bypass-and-rce) |
+| SOC287 | Análisis de logs | HIGH | [Ver write-up](https://writeups-ctfs.gitbook.io/letsdefend-write-ups/high/soc287-lectura-arbitraria-de-archivos-en-checkpoint-security-gateway-cve-2024-24919) |
+
+</details>
+
+> 💡 *Actualizá las tablas con tus retos reales (nombre, dificultad/tipo, herramienta) y reemplazá cada `#` por el link directo a esa página dentro de tu GitBook. Podés agregar filas a medida que sumes nuevos write-ups.*
+
+---
+
 ### 🎓 Certificaciones
 
 - Introduction to the Threat Landscape — *Fortinet*
@@ -75,7 +106,6 @@ Analista de ciberseguridad con experiencia en **pentesting**, **análisis de vul
   <a href="https://www.linkedin.com/in/ttomiid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://ttomiid.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </p>
-
 ---
 
 <p align="center">
