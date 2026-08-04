@@ -15,7 +15,7 @@ Analista de ciberseguridad con experiencia en **pentesting**, **análisis de vul
 - 🔭 Actualmente trabajando en el desarrollo de contenido técnico para **EC-Council Learning**
 - 🌱 Cursando la **Licenciatura en Seguridad Informática** en U. Siglo 21
 - 🛡️ Foco en análisis de logs, respuesta a incidentes, MITRE ATT&CK y Cyber Kill Chain
-- 🚩 Organizo CTFs y publico write-ups técnicos en **HaxingSec**
+- 🚩 Organizo CTFs y publico write-ups técnicos
 - 📫 Contacto: **tomasalejodelgado@proton.me**
 
 ---
